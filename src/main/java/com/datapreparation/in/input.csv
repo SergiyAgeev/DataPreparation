@@ -1,0 +1,15 @@
+
+USER, account1, Ivan, 26
+BALANCE, account1, Active, 200
+USER, account2, Stepan, 22
+BALANCE, account2, Active, 300
+USER, account3, Vasia, 23
+BALANCE, account3, Active, 400
+USER, account4, Olga, 24
+BALANCE, account4, Active, 500
+USER, account5, Serhii, 32
+BALANCE, account5, Active, 600
+USER, account6, Tania, 33
+BALANCE, account6, Active, 700
+USER, account7, Alex, 34
+BALANCE, account7, Active, 100
